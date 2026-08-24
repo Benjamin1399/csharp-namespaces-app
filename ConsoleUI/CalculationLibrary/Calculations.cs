@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleUI.Models
+namespace ConsoleUI.CalculationLibrary
 {
     public static class Calculations
     {
